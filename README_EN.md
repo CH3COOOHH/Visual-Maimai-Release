@@ -2,7 +2,7 @@
 [中文](README.md)  
 ![GitHub Repo stars](https://img.shields.io/github/stars/CH3COOOHH/Visual-Maimai-Release?style=for-the-badge&logo=Github&color=yellow)
 [![GitHub Release](https://img.shields.io/github/v/release/CH3COOOHH/Visual-Maimai-Release?style=for-the-badge&logo=Github)](https://github.com/CH3COOOHH/Visual-Maimai-Release/releases)  
-[![Bilibili](https://img.shields.io/badge/%E4%BB%8B%E7%BB%8D%E8%A7%86%E9%A2%91-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white
+[![Bilibili](https://img.shields.io/badge/Introduce_Video_(Chinese)-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white
 )](https://www.bilibili.com/video/BV1zLtveZEKP/)
 
 <center><b>Visual Maimai</b> is a visual's maimai community chart designer,more simple,troubleless.</center><br>
