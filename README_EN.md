@@ -24,3 +24,5 @@ QQ Group：![qqgroup2](https://img.shields.io/badge/947421391-1EBAFC?style=for-t
 )
 There is the readme coder fjcdhc,as now,patreon is not planned.
 -->
+
+<!--You know? it's a eatser egg-->
