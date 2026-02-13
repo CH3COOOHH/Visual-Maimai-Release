@@ -24,5 +24,5 @@ QQ群：![qqgroup2](https://img.shields.io/badge/947421391-1EBAFC?style=for-the-
 <!--
 ![Patreon](https://img.shields.io/badge/Patreon-000000?style=for-the-badge&logo=patreon&logoColor=white
 )
-这里是Readme编写者兼非官方Wiki编写者fjcdhc，其实目前来看，乙酸没有开通Patreon的想法，但是我还是预留了这个。
+这里是Readme编写者兼非官方Wiki编写者fjcdhc，其实目前来看，乙酸没有开通Patreon的想法，但是我还是预留了这个。 
 -->
