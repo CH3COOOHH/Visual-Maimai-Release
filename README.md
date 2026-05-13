@@ -1,12 +1,15 @@
 ![VM Headphoto](/Photo/headphoto.png)  
-[English](README_EN.md)  
-![GitHub Repo stars](https://img.shields.io/github/stars/CH3COOOHH/Visual-Maimai-Release?style=for-the-badge&logo=Github&color=yellow)
-[![GitHub Release](https://img.shields.io/github/v/release/CH3COOOHH/Visual-Maimai-Release?style=for-the-badge&logo=Github)](https://github.com/CH3COOOHH/Visual-Maimai-Release/releases)  
-[![Bilibili](https://img.shields.io/badge/%E4%BB%8B%E7%BB%8D%E8%A7%86%E9%A2%91-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white
-)](https://www.bilibili.com/video/BV1zLtveZEKP/)
-
-<center><b>Visual Maimai</b>是一个可视化的maimai自制谱编辑器，简单，直观，易上手。</center><br>
-
+<p align="center"><a href=README_EN.md> English</a></p>
+<p align="center"><b>Visual Maimai</b>是一个可视化的maimai自制谱编辑器，简单，直观，易上手。</p>  
+<p align="center">
+    <img src="https://img.shields.io/github/stars/CH3COOOHH/Visual-Maimai-Release?style=for-the-badge&logo=Github&color=yellow" alt="Star数量">
+    <a href="https://github.com/CH3COOOHH/Visual-Maimai-Release/releases">
+        <img src="https://img.shields.io/github/v/release/CH3COOOHH/Visual-Maimai-Release?style=for-the-badge&logo=Github" alt="GitHub发行版本">
+    </a>
+    <a href="https://www.bilibili.com/video/BV1zLtveZEKP/">
+        <img src="https://img.shields.io/badge/%E4%BB%8B%E7%BB%8D%E8%A7%86%E9%A2%91-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="哔哩哔哩介绍视频">
+    </a>
+</p>
 
 ## 加入群聊
 

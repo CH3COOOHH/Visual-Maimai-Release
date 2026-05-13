@@ -1,11 +1,17 @@
 ![VM Headphoto](/Photo/headphoto.png)  
-[中文](README.md)  
-![GitHub Repo stars](https://img.shields.io/github/stars/CH3COOOHH/Visual-Maimai-Release?style=for-the-badge&logo=Github&color=yellow)
-[![GitHub Release](https://img.shields.io/github/v/release/CH3COOOHH/Visual-Maimai-Release?style=for-the-badge&logo=Github)](https://github.com/CH3COOOHH/Visual-Maimai-Release/releases)  
-[![Bilibili](https://img.shields.io/badge/Introduce_Video_(Chinese)-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white
-)](https://www.bilibili.com/video/BV1zLtveZEKP/)
 
-<center><b>Visual Maimai</b> is a visual's maimai community chart designer,more simple,troubleless.</center><br>
+<!--So many HTML lol-->
+<p align="center"><a href="Readme.md">中文</a></p>
+<p align="center"><b>Visual Maimai</b> is a free visuals-based chart designer software for maimai that is simpler and less troublesome to use</p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/CH3COOOHH/Visual-Maimai-Release?style=for-the-badge&logo=Github&color=yellow" alt="Repo Stars">
+  <a href=https://github.com/CH3COOOHH/Visual-Maimai-Release/releases>
+    <img src="https://img.shields.io/github/v/release/CH3COOOHH/Visual-Maimai-Release?style=for-the-badge&logo=Github" alt="Release Ver">
+  </a>
+  <a href="https://www.bilibili.com/video/BV1zLtveZEKP/">
+    <img src="https://img.shields.io/badge/Introduce_Video_(Chinese)-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="bilibili video">
+  </a>
+</p>
 
 ## Join Group
 
@@ -16,7 +22,7 @@ QQ Group：![qqgroup2](https://img.shields.io/badge/947421391-1EBAFC?style=for-t
 
 
 ## Donate
-[![afdian](https://img.shields.io/badge/afdian(Only_CNY_and_can't_use_V/M_or_AMEX_and_Discover)-946CE6?style=for-the-badge&logo=afdian&logoColor=white
+[![afdian](https://img.shields.io/badge/afdian(Alipay_and_wechat)-946CE6?style=for-the-badge&logo=afdian&logoColor=white
 )](https://afdian.com/a/CH3COOOH)  
 
 <!--
